@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pavani Suresh
 
-I am a highly motivated Machine Learning Engineer and **MS in Computer Science graduate from the University of Alabama in Huntsville (Class of 2025)**. My work focuses on applying machine learning, computer vision, and deep learning techniques to multimodal datasets in order to build data-driven decision support systems. With over three years of experience, I have developed scalable pipelines, real-time data workflows, and production-ready models using tools such as PyTorch, Docker, and AWS.
+I am a results-oriented Machine Learning Engineer with a strong focus on data science, statistical modeling, predictive analytics, and scalable machine learning solutions for real-world applications. My work focuses on applying machine learning, computer vision, and deep learning techniques to multimodal datasets in order to build data-driven decision support systems. With over three years of experience, I have developed scalable pipelines, real-time data workflows, and production-ready models using tools such as PyTorch, Docker, and AWS.
 
 During my graduate studies, I specialized in hyperspectral image analysis and semantic segmentation. My research involved creating advanced learning techniques to extract insights from high-dimensional remote sensing data—addressing challenges such as spectral redundancy and limited annotations through both supervised and unsupervised approaches.
 

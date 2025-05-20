@@ -1,10 +1,11 @@
 ## Hey there! I appreciate you making it this far, I'm Pavani Suresh 👋
 
-I'm a results-driven professional with a strong interest in machine learning and data science, and hands-on experience in data cleaning, preprocessing, predictive analytics, and building scalable solutions for real-world challenges. I enjoy working on projects that apply ML, computer vision, and deep learning techniques to multimodal datasets—especially when they help power data-driven decision-making systems. Over the past three years, I've built scalable pipelines, designed real-time data workflows, and deployed production-ready models using tools like PyTorch, Docker, and AWS.
+I'm a results-driven professional with a strong interest in **machine learning** and **data science**, and hands-on experience in **data cleaning**, **preprocessing**, **predictive analytics**, and building scalable solutions for real-world challenges. I enjoy working on projects that apply **ML**, **computer vision**, and **deep learning** techniques to **multimodal datasets**—especially when they help power data-driven decision-making systems. Over the past three years, I've built **scalable pipelines**, designed **real-time data workflows**, and deployed **production-ready models** using tools like **PyTorch**, **Docker**, and **AWS**.
 
-My graduate work gave me the chance to dive deep into hyperspectral image analysis and semantic segmentation, where I explored ways to extract insight from high-dimensional remote sensing data. I focused on both supervised and unsupervised learning methods to handle challenges like spectral redundancy and limited labeled data.
+My graduate work gave me the chance to dive deep into **hyperspectral image analysis** and **semantic segmentation**, where I explored ways to extract insight from **high-dimensional remote sensing data**. I focused on both **supervised** and **unsupervised learning** methods to handle challenges like **spectral redundancy** and limited labeled data.
 
-Along the way, I’ve developed technical strengths in areas like remote sensing, geospatial intelligence, ML infrastructure, and explainable AI. I'm especially passionate about building solutions that combine research with practical, real-world impact—solutions that are not just innovative, but also transparent, scalable, and trustworthy.
+Along the way, I’ve developed technical strengths in areas like **remote sensing**, **geospatial intelligence**, **ML infrastructure**, and **explainable AI**. I'm especially passionate about building solutions that combine research with practical, real-world impact—solutions that are not just innovative, but also transparent, scalable, and trustworthy.
+
 
 
 ## 🏆 Highlights

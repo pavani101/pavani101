@@ -1,4 +1,4 @@
-## Hey there! I appreciate you making it this far. I'm Pavani Suresh 👋
+## Hey there! I appreciate you making it this far, I'm Pavani Suresh 👋
 
 I'm a results-driven professional with a strong interest in machine learning and data science, and hands-on experience in data cleaning, preprocessing, predictive analytics, and building scalable solutions for real-world challenges. I enjoy working on projects that apply ML, computer vision, and deep learning techniques to multimodal datasets—especially when they help power data-driven decision-making systems. Over the past three years, I've built scalable pipelines, designed real-time data workflows, and deployed production-ready models using tools like PyTorch, Docker, and AWS.
 
